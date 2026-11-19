@@ -1,0 +1,14 @@
+[project]
+name = "modeles-genertifs"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.11.2",
+    "numpy<2",
+    "torch==2.2.2",
+    "torcheval>=0.0.7",
+    "torchvision==0.17.2",
+]
